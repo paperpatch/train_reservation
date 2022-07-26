@@ -3,10 +3,12 @@ package com.company.trainreservation.service;
 import com.company.trainreservation.model.RouteStation;
 import com.company.trainreservation.repository.RouteStationRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 import java.util.List;
 import java.util.Optional;
 
+@Component
 public class RouteStationService {
 
     @Autowired
