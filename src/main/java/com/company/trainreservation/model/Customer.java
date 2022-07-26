@@ -1,11 +1,9 @@
 package com.company.trainreservation.model;
 
-import javax.persistence.Column;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.util.Objects;
 
+@Entity
 public class Customer {
 
     @Id
@@ -29,6 +27,15 @@ public class Customer {
     }
 
     public Customer(String firstName, String lastname, String email, String password, String mobile) {
+        this.firstName = firstName;
+        this.lastname = lastname;
+        this.email = email;
+        this.password = password;
+        this.mobile = mobile;
+    }
+
+    public Customer(int id, String firstName, String lastname, String email, String password, String mobile) {
+        this.id = id;
         this.firstName = firstName;
         this.lastname = lastname;
         this.email = email;
