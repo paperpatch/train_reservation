@@ -10,33 +10,31 @@ import java.util.Optional;
 
 @Component
 public class CustomerService {
-    @Autowired
-            static
-    CustomerRepository repo;
 
-    public static List<Customer> getAllCustomer() {
+    @Autowired
+    CustomerRepository  repo;
+
+    public List<Customer> getAllCustomer() {
         return repo.findAll();
     }
 
-    public static Customer createCustomer(Customer newCustomer) {
+    public Customer createCustomer(Customer newCustomer) {
         repo.save(newCustomer);
         return newCustomer;
     }
 
-    public static Customer getCustomerById(int id) {
+    public Customer getCustomerById(int id) {
         Optional<Customer> customer = repo.findById(id);
         return customer.orElse(null);
     }
 
-    public static void updateCustomer(Customer customer) {
+    public void updateCustomer(Customer customer) {
         repo.save(customer);
     }
 
-    public static void deleteCustomer(int id) {
+    public void deleteCustomer(int id) {
         Optional<Customer> customer = repo.findById(id);
-        if (customer.isPresent()) {
-            repo.delete(customer.get());
-        }
+        customer.ifPresent(value -> repo.delete(value));
     }
 }
 

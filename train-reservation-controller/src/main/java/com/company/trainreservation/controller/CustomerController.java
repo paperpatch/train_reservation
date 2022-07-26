@@ -28,12 +28,15 @@ public class CustomerController {
         return customerService.createCustomer(newCustomer);
     }
 
-    @PutMapping("/customers/{id}")
+    @PutMapping("/customers/")
     public void updateCustomer(Customer customer) {
         customerService.updateCustomer(customer);
     }
 
     @DeleteMapping("/customers/{id}")
     public void deleteCustomer(@PathVariable int id) {
+        customerService.deleteCustomer(id);
+
     }
+
 }
