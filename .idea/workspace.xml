@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43972eab-172f-42c1-880f-a5d692593c82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/05-stu-rectangular-paving-company/.idea/05-stu-rectangular-paving-company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/05-stu-rectangular-paving-company/solved/RectPavingCompany/RectPavingCompany (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/05-stu-rectangular-paving-company/starter/RectPavingCompany/RectPavingCompany.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/06-stu-command-line-gram/.idea/06-stu-command-line-gram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/06-stu-command-line-gram/solved/CommandLineGram/CommandLineGram (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/06-stu-command-line-gram/starter/CommandLineGram/CommandLineGram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/07-stu-fizz-buzz/.idea/07-stu-fizz-buzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/07-stu-fizz-buzz/solved/FizzBuzz/FizzBuzz (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/07-stu-fizz-buzz/starter/FizzBuzz/FizzBuzz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/08-stu-prime-finder/.idea/08-stu-prime-finder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/08-stu-prime-finder/08-stu-prime-finder/solved/PrimeFinder/PrimeFinder (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/08-stu-prime-finder/08-stu-prime-finder/starter/PrimeFinder/PrimeFinder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/09-stu-method-practice/.idea/09-stu-method-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/09-stu-method-practice/solved/MethodPractice/MethodPractice (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.1 Intro to Java/09-stu-method-practice/starter/MethodPractice/MethodPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/02-stu-student-class/.idea/02-stu-student-class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/02-stu-student-class/solved/StudentClass/StudentClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/03-we-lion-class/.idea/03-we-lion-class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/03-we-lion-class/solved/LionClass/LionClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/03-we-lion-class/starter/LionClass/LionClass (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/05-stu-simple-calculator/.idea/05-stu-simple-calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/05-stu-simple-calculator/starter/SimpleCalculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/06-we-method-overloading/.idea/06-we-method-overloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/06-we-method-overloading/solved/MethodOverloading/MethodOverloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/07-stu-refactored-calculator/.idea/07-stu-refactored-calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/07-stu-refactored-calculator/solved/RefactoredCalculator/Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.2 Object-Oriented Programming Part 1/07-stu-refactored-calculator/starter/RefactoredCalculator/Calculator (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/01-we-interface-declaration/.idea/01-we-interface-declaration.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/01-we-interface-declaration/solved/Interfaces/interfaces.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/02-stu-userio-interface/.idea/02-stu-userio-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/02-stu-userio-interface/solved/UserIO/UserIO (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/02-stu-userio-interface/starter/UserIO/UserIO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/03-we-composition-account/.idea/03-we-composition-account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/03-we-composition-account/solved/Composition/composition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/04-stu-composition-home/.idea/04-stu-composition-home.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/04-stu-composition-home/solved/CompositionHome/CompositionHome.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/05-we-inheritance/.idea/05-we-inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/05-we-inheritance/solved/Inheritance/Inheritance.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/05-we-inheritance/starter/Inheritance/Inheritance (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/06-stu-shapes-perimeters/.idea/06-stu-shapes-perimeters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/06-stu-shapes-perimeters/solved/ShapesPerimeters/ShapesPerimeters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.3 Object-Oriented Programming Part 2/06-stu-shapes-perimeters/starter/ShapesPerimeters/ShapesPerimeters (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.4 Data Structures Part 1/02-stu-calculator-test/.idea/02-stu-calculator-test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.4 Data Structures Part 1/02-stu-calculator-test/solved/CalculatorTest/CalculatorTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.4 Data Structures Part 1/04-stu-sumarrays-tdd/.idea/04-stu-sumarrays-tdd.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.4 Data Structures Part 1/07-stu-using-lists/.idea/07-stu-using-lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.4 Data Structures Part 1/07-stu-using-lists/solved/UsingLists/UsingLists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.4 Data Structures Part 1/07-stu-using-lists/starter/UsingLists/UsingLists (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.4 Data Structures Part 1/09-stu-using-maps/.idea/09-stu-using-maps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.4 Data Structures Part 1/09-stu-using-maps/solved/UsingMaps/UsingMaps.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.4 Data Structures Part 1/09-stu-using-maps/starter/UsingMaps/UsingMaps (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.4 Data Structures Part 1/10-stu-largest-cities/.idea/10-stu-largest-cities.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/02-stu-unchecked-exceptions/.idea/02-stu-unchecked-exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/02-stu-unchecked-exceptions/solved/UncheckedExceptions/UncheckedExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/02-stu-unchecked-exceptions/starter/UncheckedExceptions/UncheckedExceptions (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/04-stu-testing-exceptions-arrayfun/.idea/04-stu-testing-exceptions-arrayfun.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/04-stu-testing-exceptions-arrayfun/solved/TestingExceptionsArrayFun/TestingExceptionsArrayFun.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/05-stu-exceptions-exercise/.idea/05-stu-exceptions-exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/05-stu-exceptions-exercise/solved/ExceptionExercise/ExceptionExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/05-stu-exceptions-exercise/starter/ExceptionExercise/ExceptionExercise (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/06-we-lambdas-streams/.idea/06-we-lambdas-streams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/06-we-lambdas-streams/solved/LambdasStreams/LambdasStreams.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/06-we-lambdas-streams/starter/LambdasStreams/LambdasStreams (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/07-stu-lambdas-streams-exercise/.idea/07-stu-lambdas-streams-exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/07-stu-lambdas-streams-exercise/solved/LambdasStreamsExercise/LambdasStreamsExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module1 - Accelerated Java/1.5 Data Structures Part 2/07-stu-lambdas-streams-exercise/starter/LambdasStreamsExercise/LambdasStreamsExercise (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.1 Intro to Spring Boot Part 1/02-we-student-service/.idea/02-we-student-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.1 Intro to Spring Boot Part 1/04-we-using-postman/.idea/04-we-using-postman.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.1 Intro to Spring Boot Part 1/04-we-using-postman/starter/dating-app/dating-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.1 Intro to Spring Boot Part 1/05-stu-design-rest-api/.idea/05-stu-design-rest-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.2 Intro to Spring Boot Part 2/01-we-mockmvc-record-store/.idea/01-we-mockmvc-record-store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.2 Intro to Spring Boot Part 2/02-we-echo-service/.idea/02-we-echo-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.2 Intro to Spring Boot Part 2/03-we-record-store/.idea/03-we-record-store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.2 Intro to Spring Boot Part 2/04-stu-web-service-build/.idea/04-stu-web-service-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.3 Intro to Spring Boot Part 3/01-we-echo-range-service/.idea/01-we-echo-range-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.3 Intro to Spring Boot Part 3/02-we-record-service-validation-error-handling/.idea/02-we-record-service-validation-error-handling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.3 Intro to Spring Boot Part 3/03-we-record-store-query-parameters/.idea/03-we-record-store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.3 Intro to Spring Boot Part 3/04-we-city-web-service/.idea/04-we-city-web-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.3 Intro to Spring Boot Part 3/05-stu-month-converter/.idea/05-stu-month-converter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.4 React Record Store Front End Deployed to Netilify/01-we-record-store-back-end/.idea/01-we-record-store-back-end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.4 React Record Store Front End Deployed to Netilify/02-we-record-store-front-end/.idea/02-we-record-store-front-end.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.5 Full-Stack Java React Deploy/02-we-rsvp-service-deploy/.idea/02-we-rsvp-service-deploy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module2 - Accelerated Spring Boot REST/2.5 Full-Stack Java React Deploy/03-stu-recipe-service-build-deploy/.idea/03-stu-recipe-service-build-deploy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module3 - Accelerated Spring Boot TDD Spring Data/3.2 Java SQL/02-stu-car-lot-jpa-repository/.idea/02-stu-car-lot-jpa-repository.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Module3 - Accelerated Spring Boot TDD Spring Data/3.4 Project Build Day/01-stu-customer-data-service/.idea/01-stu-customer-data-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.1 Introduction to Microservices/03-we-hello-cloud/app123/src/main/java/com/trilogyed/app123/controller/App123Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.1 Introduction to Microservices/04-stu-quote-service/student/random-quote-service/src/main/java/com/trilogyed/randomquoteservice/controller/QuoteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/01-stu-hello-cloud-v3/starter/hello-cloud/src/main/java/com/trilogyed/config/util/feign/QuoteClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/03-stu-rsvp-system/rsvp/src/main/java/com/twou/rsvp/controller/RsvpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/03-stu-rsvp-system/rsvp/src/main/java/com/twou/rsvp/model/Rsvp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/03-stu-rsvp-system/rsvp/src/main/java/com/twou/rsvp/repository/RsvpRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/03-stu-rsvp-system/rsvp/src/test/java/com/twou/rsvp/RsvpRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/03-stu-rsvp-system/rsvp/src/test/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/account-service/src/main/java/com/trilogyed/accountservice/controller/AccountServiceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/account-service/src/main/java/com/trilogyed/accountservice/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/account-service/src/main/java/com/trilogyed/accountservice/util/messages/EmailListEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/email-list-queue-consumer/src/main/java/com/trilogyed/emaillistqueueconsumer/MessageListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.2 Edge Services and Messaging Systems/email-list-queue-consumer/src/main/java/com/trilogyed/emaillistqueueconsumer/util/messages/EmailListEntry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../5.3 Containerization/05-we-create-docker-image/starter/hellokube/Dockerfile" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CUERwpy0Y8O8vlbsbc0E0ipf2C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TrainReservationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.trainreservation.TrainReservationApplication" />
+      <module name="train-reservation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.trainreservation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TrainReservationApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43972eab-172f-42c1-880f-a5d692593c82" name="Changes" comment="" />
+      <created>1658848761961</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658848761961</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
