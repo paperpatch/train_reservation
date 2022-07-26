@@ -45,7 +45,7 @@ public class Customer {
         this.email = email;
         this.password = password;
         this.mobile = mobile;
-    }
+}
 
     public int getId() {
         return id;
